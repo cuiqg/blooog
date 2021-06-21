@@ -385,7 +385,7 @@ back2top:
 
 # Reading progress bar
 reading_progress:
-  enable: true
+  enable: false
   # Available values: left | right
   startAt: left
   # Available values: top | bottom
@@ -839,7 +839,7 @@ motion:
 # For more information: https://github.com/rstacruz/nprogress
 nprogress:
   enable: true
-  spinner: true
+  spinner: false
 
 # Canvas ribbon
 # For more information: https://github.com/hustcc/ribbon.js
