@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cuiqg.github.io/How-To-Set-Up-a-Firewall-with-UFW-on-Ubuntu-20-04/</loc>
+    <loc>https://tsuiqg.xyz/How-To-Set-Up-a-Firewall-with-UFW-on-Ubuntu-20-04/</loc>
     
     <lastmod>2021-06-21</lastmod>
     
   </url>
   
   <url>
-    <loc>https://cuiqg.github.io/categories/index.html</loc>
+    <loc>https://tsuiqg.xyz/categories/index.html</loc>
     
     <lastmod>2021-06-21</lastmod>
     
   </url>
   
   <url>
-    <loc>https://cuiqg.github.io/tags/index.html</loc>
+    <loc>https://tsuiqg.xyz/tags/index.html</loc>
     
     <lastmod>2021-06-21</lastmod>
     
@@ -24,7 +24,7 @@
   
 
   <url>
-    <loc>https://cuiqg.github.io/</loc>
+    <loc>https://tsuiqg.xyz/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -32,21 +32,21 @@
 
   
   <url>
-    <loc>https://cuiqg.github.io/tags/Ubuntu/</loc>
+    <loc>https://tsuiqg.xyz/tags/Ubuntu/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://cuiqg.github.io/tags/Firewall/</loc>
+    <loc>https://tsuiqg.xyz/tags/Firewall/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://cuiqg.github.io/tags/Security/</loc>
+    <loc>https://tsuiqg.xyz/tags/Security/</loc>
     <lastmod>2021-06-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
