@@ -12,7 +12,7 @@ UFW, or Uncomplicated Firewall, is a simplified firewall management interface th
 
 This tutorial will show you how to set up a firewall with UFW on Ubuntu 20.04.
 
-<!---more--->
+<!--more-->
 
 # Prerequisites
 To follow this tutorial, you will need:
