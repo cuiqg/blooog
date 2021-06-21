@@ -1839,16 +1839,6 @@ pre code {
   width: 100%;
   z-index: 1500;
 }
-.reading-progress-bar {
-  --progress: 0;
-  background: #37c6c0;
-  height: 3px;
-  position: fixed;
-  z-index: 1500;
-  width: calc(100% - var(--progress));
-  left: 0;
-  top: 0;
-}
 .rtl.post-body p,
 .rtl.post-body a,
 .rtl.post-body h1,
@@ -2892,7 +2882,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #ffdd1d;
+  background: #7340ff;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
