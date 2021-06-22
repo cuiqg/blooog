@@ -628,7 +628,7 @@ gitalk:
   repo: blooog # Repository name to store issues
   client_id: c29f3f7905698dcb34fb # GitHub Application Client ID
   client_secret: 05e52b451695211aea1d439cc0d9a41e557ee415 # GitHub Application Client Secret
-  admin_user: ['cuiqg'] # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
+  admin_user: cuiqg # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # When the official proxy is not available, you can change it to your own proxy address
   proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # This is official proxy adress
