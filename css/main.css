@@ -1839,6 +1839,16 @@ pre code {
   width: 100%;
   z-index: 1500;
 }
+.reading-progress-bar {
+  --progress: 0;
+  background: #37c6c0;
+  height: 3px;
+  position: fixed;
+  z-index: 1500;
+  width: calc(100% - var(--progress));
+  left: 0;
+  top: 0;
+}
 .rtl.post-body p,
 .rtl.post-body a,
 .rtl.post-body h1,
@@ -2615,14 +2625,6 @@ ul.breadcrumb li:last-child {
     color: #eee;
   }
 }
-.gt-header a,
-.gt-comments a,
-.gt-popup a {
-  border-bottom: 0;
-}
-.gt-container .gt-popup .gt-action.is--active::before {
-  top: 0.7em;
-}
 .search-active {
   overflow: hidden;
 }
@@ -2890,7 +2892,7 @@ mark.search-keyword {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #6b4fff;
+  background: #36ed40;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
